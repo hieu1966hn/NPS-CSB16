@@ -51,9 +51,9 @@
 
 
 ## Chữa bài 5: 
-n = int(input("Mời người dùng nhập vào số nguyên từ bàn phím: "))
-giai_thua = 1
-for i in range(1, n+1):
-    giai_thua = giai_thua*i
+# n = int(input("Mời người dùng nhập vào số nguyên từ bàn phím: "))
+# giai_thua = 1
+# for i in range(1, n+1):
+#     giai_thua = giai_thua*i
 
-print(giai_thua)
+# print(giai_thua)
