@@ -60,11 +60,22 @@
 
 
 ########## Khai báo một tuple
-const1 = (3.14, "123")
+# const1 = (3.14, "123")
 
 
 ##### Số lượng phần tử có trong Tuple
-print(len(const1))
+# print(len(const1))
 
 ##### Tìm kiếm phần tử trong Tuple
-print(3.14 in const1)
+# print(3.14 in const1)
+
+
+
+#### Chữa bài 3
+a = [100, 1, -1, 2, 5, 15]
+tong = 0
+#### duyệt danh sách
+for item in a: # item đại diện cho từng phần tử trong list a.
+    tong = tong + item
+
+print(tong)
