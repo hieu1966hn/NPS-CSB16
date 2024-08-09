@@ -34,4 +34,10 @@ Module:
 
 
 Bài tập thực hành: 
-1. 
+1. Viết hàm kiểm tra năm nhập vào xem năm đó có phải là năm nhuận hay không (nhuận: True, không nhuận: False).
+- Năm nhuận là năm chia hết cho 4 nhưng không chia hết cho 100.
+- Năm chia hết cho 400.
+
+2. Viết hàm tính tổng một LIST cho trước. Nếu trong List đó tồn tại phần tử không phải là số thì bỏ qua nó. [1, 2, 3, "hi"] => 6
+
+3. Viết một chương trình chấp nhận chuỗi do người dùng nhập vào, phân tách nhau bởi dấu ",". và in những từ đó thành chuỗi theo thứ tự bảng chữ cái, phân tách nhau bằng dấu phẩy.

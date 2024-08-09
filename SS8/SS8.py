@@ -32,3 +32,12 @@ print(SS8_DEF.max1(1, 10)) #### ?
 
 ### Gọi hàm kiểm tra số nguyên và chẵn lẻ
 print(SS8_DEF.kiem_tra_chan_le(11))
+
+
+### Gọi hàm kiểm tra năm nhuận
+print(SS8_DEF.kiem_tra_nam_nhuan(2022))
+
+#### Gọi hàm tính tổng danh sách
+# a = "1"
+# print(a.isdigit())
+# print(SS8_DEF.sum_list([1, 2, 3, 4.0 ,"Hello"])) ###
